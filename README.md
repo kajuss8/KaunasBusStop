@@ -24,12 +24,12 @@ KaunasBusStop is a web application providing detailed information about bus stop
 ![Routes](https://github.com/user-attachments/assets/b2c72546-35b0-4dc2-9afb-426f2d4e6020)
 
 ### 2. Map with Bus Stops
-![Map with Stops](images/stops_map.png)
-*Interactive map showing bus stop locations using OpenStreetMap.*
+![map with stops data](https://github.com/user-attachments/assets/a2395b1c-69ef-4ee5-b42a-b488e121901e)
+
 
 ### 3. Route Between Stops
-![Route and Stop Info](images/route_stops.png)
-*Visualizes a route between selected stops with detailed stop information.*
+![Route stops data and driver roate](https://github.com/user-attachments/assets/b23ddfed-b407-41f4-8c2e-1dc1d924aa7c)
+
 
 ## Getting Started
 
