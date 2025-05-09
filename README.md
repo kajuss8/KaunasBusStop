@@ -35,8 +35,8 @@ KaunasBusStop is a web application providing detailed information about bus stop
 ## Getting Started
 
 ### Prerequisites
-- [.NET SDK](https://dotnet.microsoft.com/download) (for ASP.NET Core)
-- [Node.js](https://nodejs.org/) (for React)
+- [.NET SDK] (for ASP.NET Core)
+- [Node.js] (for React)
 - Visual Studio (recommended) or any code editor
 - GTFS files for Kaunas transit data (place in the project directory or configure the path)
 - Database (e.g., SQL Server, SQLite) if using Entity Framework Core
