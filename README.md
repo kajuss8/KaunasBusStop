@@ -21,8 +21,7 @@ KaunasBusStop is a web application providing detailed information about bus stop
 ## Screenshots
 
 ### 1. Bus Routes Overview
-![Routes Overview](images/routes.png)
-*Displays available bus routes and their schedules.*
+![Routes](https://github.com/user-attachments/assets/b2c72546-35b0-4dc2-9afb-426f2d4e6020)
 
 ### 2. Map with Bus Stops
 ![Map with Stops](images/stops_map.png)
@@ -35,16 +34,16 @@ KaunasBusStop is a web application providing detailed information about bus stop
 ## Getting Started
 
 ### Prerequisites
-- [.NET SDK] (for ASP.NET Core)
-- [Node.js] (for React)
+- .NET SDK (for ASP.NET Core)
+- Node.js (for React)
 - Visual Studio (recommended) or any code editor
 - GTFS files for Kaunas transit data (place in the project directory or configure the path)
-- Database (e.g., SQL Server, SQLite) if using Entity Framework Core
+- Database (e.g., SQL Server) if using Entity Framework Core
 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/KaunasBusStop.git
+   git clone https://github.com/kajuss8/KaunasBusStop.git
 
 2. Navigate to the project directory:
    ```bash
