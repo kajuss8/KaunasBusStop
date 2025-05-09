@@ -12,7 +12,7 @@ KaunasBusStop is a web application providing detailed information about bus stop
 ## Technologies Used
 
 - **Backend**: ASP.NET Core
-- **Frontend**: React
+- **Frontend**: JavaScript(React framework)
 - **Data Source**: GTFS files for transit data
 - **Map Integration**: OpenStreetMap
 - **Database**: MSSQL
