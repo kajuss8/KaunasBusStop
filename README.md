@@ -64,9 +64,8 @@ KaunasBusStop is a web application providing detailed information about bus stop
    ```bash
    dotnet ef migrations add InitialCreate
    dotnet ef database update
-   
-   Note: Ensure the database server is running and connection settings are correct.
+Note: Ensure the database server is running and connection settings are correct.
 
 7. Run the application:
    ```bash
-   npm install
+   dotnet run
