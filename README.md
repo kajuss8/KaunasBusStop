@@ -5,9 +5,9 @@ KaunasBusStop is a web application providing detailed information about bus stop
 ## Features
 
 - **Route Information**: View bus routes and schedules.
-- **Interactive Map**: Explore bus stops and routes on an OpenStreetMap-powered map.
-- **Stop Details**: Access details for specific bus stops, including routes served.
-- **Route Planning**: Visualize routes between selected stops with stop information.
+- **Interactive Map**: Explore bus stops and routes on an OpenStreetMap.
+- **Stop Details**: Access details for specific bus stops.
+- **Route visualization**: Visualize route between stops.
 
 ## Technologies Used
 
@@ -15,7 +15,7 @@ KaunasBusStop is a web application providing detailed information about bus stop
 - **Frontend**: React
 - **Data Source**: GTFS files for transit data
 - **Map Integration**: OpenStreetMap for geospatial visualization
-- **Database**: Entity Framework Core (if applicable)
+- **Database**: MSSQL
 - **Development Environment**: Visual Studio
 
 ## Screenshots
