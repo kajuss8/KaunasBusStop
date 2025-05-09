@@ -7,7 +7,7 @@ Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "kaunasbusstop.client", "kau
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaunasBusStop.Server", "KaunasBusStop.Server\KaunasBusStop.Server.csproj", "{49163465-64C1-42C4-8419-A9D33432759E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaunasBusStopTest", "KaunasBusStop\KaunasBusStopTest.csproj", "{CA2A5A45-178D-49FA-8A2A-329503B0A147}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaunasBusStopTest", "KaunasBusStopTest\KaunasBusStopTest.csproj", "{2D856201-4E7E-6AB1-24A8-F7D2836CDE37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,10 +25,10 @@ Global
 		{49163465-64C1-42C4-8419-A9D33432759E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49163465-64C1-42C4-8419-A9D33432759E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49163465-64C1-42C4-8419-A9D33432759E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CA2A5A45-178D-49FA-8A2A-329503B0A147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CA2A5A45-178D-49FA-8A2A-329503B0A147}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CA2A5A45-178D-49FA-8A2A-329503B0A147}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CA2A5A45-178D-49FA-8A2A-329503B0A147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D856201-4E7E-6AB1-24A8-F7D2836CDE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D856201-4E7E-6AB1-24A8-F7D2836CDE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D856201-4E7E-6AB1-24A8-F7D2836CDE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D856201-4E7E-6AB1-24A8-F7D2836CDE37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
